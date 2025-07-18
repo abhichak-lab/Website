@@ -1,13 +1,24 @@
 .title {
-    color: white;
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
-    padding-top: 120px;
+  width: 40%;
+  color: white;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding-top: 80px;
+  margin: 0 auto;
+  text-align: center;
 }
 
-.title-name {    
-    font-size: 50px;
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+.title-name {
+  font-size: 100px;
+  font-family: "Rouge Script", cursive;
+  font-weight: 400;
+  width: 100%;
+}
+
+.title-person-name {
+  font-size: 30px;
+  font-family: "Poiret One", sans-serif;
+  width: 100%;
 }
